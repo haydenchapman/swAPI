@@ -1,0 +1,13 @@
+#reBtn{
+    padding: 5vh;
+    width: 95vw;
+    color: aqua;
+    background-color: rgb(138, 136, 136);
+}
+body{
+    align-self: baseline;
+}
+h2{
+    color: blue;
+}
+
